@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.18614638.chunk.css",
-    "main.js": "/developerFolio/static/js/main.ae394a94.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.ae394a94.chunk.js.map",
-    "runtime-main.js": "/developerFolio/static/js/runtime-main.b2df3ad8.js",
-    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.b2df3ad8.js.map",
-    "static/js/2.c156eb17.chunk.js": "/developerFolio/static/js/2.c156eb17.chunk.js",
-    "static/js/2.c156eb17.chunk.js.map": "/developerFolio/static/js/2.c156eb17.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.7a9f7a1a.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.7a9f7a1a.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.8dea444a.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.8dea444a.js.map",
+    "static/js/2.8f4ef7f9.chunk.js": "/developerFolio/static/js/2.8f4ef7f9.chunk.js",
+    "static/js/2.8f4ef7f9.chunk.js.map": "/developerFolio/static/js/2.8f4ef7f9.chunk.js.map",
     "static/css/3.25727338.chunk.css": "/developerFolio/static/css/3.25727338.chunk.css",
-    "static/js/3.897a62b0.chunk.js": "/developerFolio/static/js/3.897a62b0.chunk.js",
-    "static/js/3.897a62b0.chunk.js.map": "/developerFolio/static/js/3.897a62b0.chunk.js.map",
+    "static/js/3.afc6de8b.chunk.js": "/developerFolio/static/js/3.afc6de8b.chunk.js",
+    "static/js/3.afc6de8b.chunk.js.map": "/developerFolio/static/js/3.afc6de8b.chunk.js.map",
     "static/css/4.a8329f31.chunk.css": "/developerFolio/static/css/4.a8329f31.chunk.css",
-    "static/js/4.0b84ffa0.chunk.js": "/developerFolio/static/js/4.0b84ffa0.chunk.js",
-    "static/js/4.0b84ffa0.chunk.js.map": "/developerFolio/static/js/4.0b84ffa0.chunk.js.map",
+    "static/js/4.df8b8a31.chunk.js": "/developerFolio/static/js/4.df8b8a31.chunk.js",
+    "static/js/4.df8b8a31.chunk.js.map": "/developerFolio/static/js/4.df8b8a31.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.561d344ee6215e6de0a0e8fb2ab41024.js": "/developerFolio/precache-manifest.561d344ee6215e6de0a0e8fb2ab41024.js",
+    "precache-manifest.f0f24c2a65e16ac5018a2c81abb2ec41.js": "/developerFolio/precache-manifest.f0f24c2a65e16ac5018a2c81abb2ec41.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.25727338.chunk.css.map": "/developerFolio/static/css/3.25727338.chunk.css.map",
     "static/css/4.a8329f31.chunk.css.map": "/developerFolio/static/css/4.a8329f31.chunk.css.map",
     "static/css/main.18614638.chunk.css.map": "/developerFolio/static/css/main.18614638.chunk.css.map",
-    "static/js/2.c156eb17.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.c156eb17.chunk.js.LICENSE.txt",
+    "static/js/2.8f4ef7f9.chunk.js.LICENSE.txt": "/developerFolio/static/js/2.8f4ef7f9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/ICPBL.png": "/developerFolio/static/media/ICPBL.94ac898a.png",
     "static/media/LSI.png": "/developerFolio/static/media/LSI.e78e57de.png",
@@ -31,6 +31,7 @@
     "static/media/facebookLogo.png": "/developerFolio/static/media/facebookLogo.8ddf76a1.png",
     "static/media/hanyang.png": "/developerFolio/static/media/hanyang.65532742.png",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
+    "static/media/models.png": "/developerFolio/static/media/models.ba4b5483.png",
     "static/media/nextuLogo.webp": "/developerFolio/static/media/nextuLogo.829ad0a1.webp",
     "static/media/pwaLogo.webp": "/developerFolio/static/media/pwaLogo.ee62cb58.webp",
     "static/media/quoraLogo.png": "/developerFolio/static/media/quoraLogo.4b2938b9.png",
@@ -39,9 +40,9 @@
     "static/media/TalkCard.scss": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2df3ad8.js",
-    "static/js/2.c156eb17.chunk.js",
+    "static/js/runtime-main.8dea444a.js",
+    "static/js/2.8f4ef7f9.chunk.js",
     "static/css/main.18614638.chunk.css",
-    "static/js/main.ae394a94.chunk.js"
+    "static/js/main.7a9f7a1a.chunk.js"
   ]
 }

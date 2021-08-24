@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "268e4c4624cc0ab1152aad6c1b8bc2d0",
+    "revision": "ac24d397c37891eb6e50fa30f40219f5",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "e99698d0d29797f93705",
+    "revision": "dc2d375f5b98ccec8be2",
     "url": "/developerFolio/static/css/3.25727338.chunk.css"
   },
   {
-    "revision": "a1cc1fdcc844780001a5",
+    "revision": "9d0bd47279c034e6cd21",
     "url": "/developerFolio/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "f5649d166e42dbb5822b",
+    "revision": "be5e1cfdbd74495d0a9b",
     "url": "/developerFolio/static/css/main.18614638.chunk.css"
   },
   {
-    "revision": "b842fd57ca9afe31b13a",
-    "url": "/developerFolio/static/js/2.c156eb17.chunk.js"
+    "revision": "89e29fe98c673c4cdead",
+    "url": "/developerFolio/static/js/2.8f4ef7f9.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/developerFolio/static/js/2.c156eb17.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.8f4ef7f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e99698d0d29797f93705",
-    "url": "/developerFolio/static/js/3.897a62b0.chunk.js"
+    "revision": "dc2d375f5b98ccec8be2",
+    "url": "/developerFolio/static/js/3.afc6de8b.chunk.js"
   },
   {
-    "revision": "a1cc1fdcc844780001a5",
-    "url": "/developerFolio/static/js/4.0b84ffa0.chunk.js"
+    "revision": "9d0bd47279c034e6cd21",
+    "url": "/developerFolio/static/js/4.df8b8a31.chunk.js"
   },
   {
-    "revision": "f5649d166e42dbb5822b",
-    "url": "/developerFolio/static/js/main.ae394a94.chunk.js"
+    "revision": "be5e1cfdbd74495d0a9b",
+    "url": "/developerFolio/static/js/main.7a9f7a1a.chunk.js"
   },
   {
-    "revision": "7773b4fb2d03348b8550",
-    "url": "/developerFolio/static/js/runtime-main.b2df3ad8.js"
+    "revision": "30c2f787c822f839d890",
+    "url": "/developerFolio/static/js/runtime-main.8dea444a.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/developerFolio/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "ba4b54839e6f9937bdd750d5352adab5",
+    "url": "/developerFolio/static/media/models.ba4b5483.png"
   },
   {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
