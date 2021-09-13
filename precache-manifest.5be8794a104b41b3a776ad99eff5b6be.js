@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e6583d896c45adbe8f9b007721d6e93",
+    "revision": "b3b84687f958918d8d5ffcbe05f7d208",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "dc2d375f5b98ccec8be2",
+    "revision": "374cae4bda3ea012e42a",
     "url": "/developerFolio/static/css/3.25727338.chunk.css"
   },
   {
-    "revision": "9d0bd47279c034e6cd21",
+    "revision": "c8d826f12d6e3ee0d00b",
     "url": "/developerFolio/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "6f633b2e22411f50a341",
+    "revision": "0a77fe8065f3adedb8c9",
     "url": "/developerFolio/static/css/main.18614638.chunk.css"
   },
   {
-    "revision": "89e29fe98c673c4cdead",
-    "url": "/developerFolio/static/js/2.8f4ef7f9.chunk.js"
+    "revision": "92496487dbbecd5c2a85",
+    "url": "/developerFolio/static/js/2.d894cb81.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/developerFolio/static/js/2.8f4ef7f9.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.d894cb81.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc2d375f5b98ccec8be2",
-    "url": "/developerFolio/static/js/3.afc6de8b.chunk.js"
+    "revision": "374cae4bda3ea012e42a",
+    "url": "/developerFolio/static/js/3.ad0a2b03.chunk.js"
   },
   {
-    "revision": "9d0bd47279c034e6cd21",
-    "url": "/developerFolio/static/js/4.df8b8a31.chunk.js"
+    "revision": "c8d826f12d6e3ee0d00b",
+    "url": "/developerFolio/static/js/4.1c23f4a6.chunk.js"
   },
   {
-    "revision": "6f633b2e22411f50a341",
-    "url": "/developerFolio/static/js/main.1f617d25.chunk.js"
+    "revision": "0a77fe8065f3adedb8c9",
+    "url": "/developerFolio/static/js/main.a7916abd.chunk.js"
   },
   {
-    "revision": "30c2f787c822f839d890",
-    "url": "/developerFolio/static/js/runtime-main.8dea444a.js"
+    "revision": "437a47a5b949dac25f3a",
+    "url": "/developerFolio/static/js/runtime-main.5d29de93.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
     "url": "/developerFolio/static/media/airbnbLogo.c59720d6.png"
+  },
+  {
+    "revision": "b77096a374a763539a637d2dfed6f7c6",
+    "url": "/developerFolio/static/media/badge.b77096a3.png"
   },
   {
     "revision": "661954bda1cd50034258d590dbf19595",
